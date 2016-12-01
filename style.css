@@ -28,6 +28,11 @@ a {
 	display: inline-block;
 }
 
+a:hover {
+	background-color: white;
+	color: black;
+}
+
 footer {
 	position: absolute;
 	right: 0px;
